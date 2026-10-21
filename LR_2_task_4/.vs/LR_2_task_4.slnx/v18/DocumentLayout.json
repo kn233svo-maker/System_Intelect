@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oop\\System_Intelect\\Lab2\\LR_2_task_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2AF8E6-3AB1-47DC-A366-FFC1ACA79682}|LR_2_task_4\\LR_2_task_4.pyproj|D:\\oop\\System_Intelect\\Lab2\\LR_2_task_4\\LR_2_task_4\\LR_2_task_4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3B2AF8E6-3AB1-47DC-A366-FFC1ACA79682}|LR_2_task_4\\LR_2_task_4.pyproj|solutionrelative:LR_2_task_4\\LR_2_task_4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR_2_task_4.py",
+              "DocumentMoniker": "D:\\oop\\System_Intelect\\Lab2\\LR_2_task_4\\LR_2_task_4\\LR_2_task_4.py",
+              "RelativeDocumentMoniker": "LR_2_task_4\\LR_2_task_4.py",
+              "ToolTip": "D:\\oop\\System_Intelect\\Lab2\\LR_2_task_4\\LR_2_task_4\\LR_2_task_4.py",
+              "RelativeToolTip": "LR_2_task_4\\LR_2_task_4.py",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-10-13T12:30:36.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
